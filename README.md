@@ -89,7 +89,17 @@ It is ideal for roles such as:
 - Expand summaries of humanitarian datasets  
 - Add multilingual support (Arabic, English, French)  
 - Integrate more case studies  
-- Enhance the Gemini research script  
+- Enhance the Gemini research script
+- ## Author
+
+Faisal Abdelkarim — AI Research & Automation Practitioner  
+Focused on AI-driven research, insights, and technical documentation.  
+Background in engineering with previous field experience in humanitarian operations (used only as a case study example).
+## Connect on LinkedIn
+
+To explore my work in AI research, automation, and technical documentation:
+
+🔗 **LinkedIn:** www.linkedin.com/in/faisal-abdelkarim-a441a5377
 
 ---
 
