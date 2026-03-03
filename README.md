@@ -101,10 +101,4 @@ To explore my work in AI research, automation, and technical documentation:
 
 🔗 **LinkedIn:** www.linkedin.com/in/faisal-abdelkarim-a441a5377
 
----
 
-## Author
-
-Faisal — Humanitarian Worker & AI Research Practitioner  
-Experience in refugee support operations with Movement On The Ground.  
-Focused on AI-driven research, insights, and social impact.
