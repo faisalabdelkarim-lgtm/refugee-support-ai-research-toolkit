@@ -94,7 +94,8 @@ It is ideal for roles such as:
 
 Faisal Abdelkarim — AI Research & Automation Practitioner  
 Focused on AI-driven research, insights, and technical documentation.  
-Background in engineering with previous field experience in humanitarian operations (used only as a case study example).
+Background in engineering with Experience in refugee support operations with Movement On The Ground.
+
 ## Connect on LinkedIn
 
 To explore my work in AI research, automation, and technical documentation:
