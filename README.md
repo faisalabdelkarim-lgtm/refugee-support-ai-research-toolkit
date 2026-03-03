@@ -1,30 +1,28 @@
-# Refugee Needs Assessment – AI Research Report
+# AI Research & Insights Toolkit
 
-This document presents an AI-assisted research report analyzing refugee community needs in humanitarian settings. The analysis combines Google Gemini outputs with real field experience from Movement On The Ground.
+A practical toolkit demonstrating how AI can support research, analysis, and insight generation across different domains.  
+This project showcases the use of Google Gemini for deep research, report generation, expert recommendations, and structured summaries.
 
-## Research Question
-How can AI support refugee needs assessment and improve decision-making in humanitarian camp environments?
+The toolkit reflects my current focus on **AI research, automation, and technical documentation**, supported by my engineering background and real-world case studies from past experiences.
 
-## Methodology
-- Deep Research using Google Gemini
-- Review of UNHCR and IOM reports
-- Field insights from Movement On The Ground
-- Comparative analysis of humanitarian service gaps
+---
 
-## Key Findings
-- Shelter, food security, education, and protection remain the highest priority needs.
-- Communication gaps between refugees and NGOs reduce service effectiveness.
-- Data collection is inconsistent across different humanitarian actors.
-- AI can support faster analysis of reports, trends, and community feedback.
+## Purpose
 
-## Recommendations
-- Use AI to summarize weekly camp reports.
-- Implement AI-driven needs assessment templates.
-- Improve communication channels using multilingual AI tools.
-- Use AI to evaluate program impact and resource allocation.
+This project is designed to demonstrate how AI can be used to:
 
-## Conclusion
-AI can significantly enhance humanitarian decision-making when combined with real field experience and structured research workflows.
+- Conduct structured research using Deep Research workflows  
+- Summarize long reports and extract key insights  
+- Generate expert recommendations for decision-making  
+- Analyze trends, risks, and opportunities  
+- Build reusable research templates and tools  
+- Support technical writing and documentation tasks  
+
+The toolkit is domain-agnostic and can be applied to technology, markets, operations, or social contexts.
+
+---
+
+## Project Structure
 
 Each folder corresponds to one of the three “Build with AI” project types from Google’s *AI for Research & Insights* course.
 
@@ -32,74 +30,62 @@ Each folder corresponds to one of the three “Build with AI” project types fr
 
 ## How It Works
 
-### 1. Research Report  
-Deep Research using Gemini to produce structured reports on:
-- Refugee needs  
-- Humanitarian trends  
-- Program evaluation  
-- Service gaps  
+### Research Reports  
+Structured deep research outputs generated using Gemini, covering topics such as:
+- Market trends  
+- Technology landscapes  
+- Sector analysis  
+- Operational insights  
 
-### 2. Research Summaries  
+### Summaries  
 AI-generated summaries of:
-- UNHCR situation reports  
-- IOM migration trends  
-- NGO field assessments  
+- Long reports  
+- Academic papers  
+- Industry documents  
 
-### 3. Expert Advice  
+### Expert Advice  
 Gemini-powered recommendations for:
-- Camp management  
-- Service improvement  
-- Community engagement  
-- Resource allocation  
+- Strategy  
+- Risk assessment  
+- Operational improvements  
 
-### 4. Case Study  
-A real-world analysis based on field experience with **Movement On The Ground**, including:
-- Observed challenges  
-- Community needs  
-- Operational gaps  
-- Lessons learned  
+### Case Studies  
+Real-world examples demonstrating how AI research workflows can be applied.  
+Includes a past humanitarian experience with Movement On The Ground, used only as a practical case study.
 
 ---
 
-## Why This Project Is Valuable
+## Why This Project Matters
 
 This toolkit demonstrates:
 
-- Ability to use AI for humanitarian research  
-- Strong analytical and documentation skills  
-- Understanding of refugee support operations  
-- Experience with real humanitarian fieldwork  
-- Capability to combine AI + research + social impact  
-- Practical application of Google Gemini tools  
+- Strong capability in AI-assisted research  
+- Ability to structure and document insights  
+- Skill in using Gemini for real analytical tasks  
+- Professional technical writing  
+- Practical understanding of research workflows  
+- Flexibility to apply AI across different domains  
 
-It is ideal for roles such as:
+It is suitable for roles such as:
 
-- Humanitarian Research Analyst  
-- AI for Social Impact Specialist  
-- NGO Data & Insights Officer  
-- Technical Writer (Humanitarian Sector)  
-- Program Evaluation Assistant  
-- UNHCR / IOM / NGO support roles  
+- AI Research Assistant  
+- AI Automation Specialist  
+- Technical Writer  
+- Data & Insights Analyst  
+- Research & Documentation roles  
 
 ---
 
-## Next Steps
+## Author
 
-- Add more Deep Research reports  
-- Expand summaries of humanitarian datasets  
-- Add multilingual support (Arabic, English, French)  
-- Integrate more case studies  
-- Enhance the Gemini research script
-- ## Author
-
-Faisal Abdelkarim — AI Research & Automation Practitioner  
+Faisal — AI Research & Automation Practitioner  
 Focused on AI-driven research, insights, and technical documentation.  
-Background in engineering with Experience in refugee support operations with Movement On The Ground.
+Engineering background with previous field experience (used only as case studies).
+
+---
 
 ## Connect on LinkedIn
 
-To explore my work in AI research, automation, and technical documentation:
+To explore my work in AI research and automation:
 
 🔗 **LinkedIn:** www.linkedin.com/in/faisal-abdelkarim-a441a5377
-
-
